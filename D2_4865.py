@@ -14,3 +14,4 @@ for t in range(1, T+1):
     maxdic = max(dic.values())
 
     print(f'#{t} {maxdic}')
+
